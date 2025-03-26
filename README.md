@@ -72,7 +72,7 @@
 
 ## 🎵 *Vibe While You Scroll!* 🎶  
 <p align="center">
-  <img src="https://open.spotify.com/embed/album/0uF7LYXx0mDrWeMxZ3vRkz?utm_source=generator" width="400" />
+  <img src="https://imgs.search.brave.com/0Kfb7LQhNvEGBHEr2y3Y7K3l_OiuZgOIRZME8yAGYM0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zb3Vy/Y2UuYm9vbXBsYXlt/dXNpYy5jb20vZ3Jv/dXAxMC9NMDAvMDIv/MTUvYzE1NmIzZTVm/ZjhkNDFhNDgxODdl/MGQzMjI0ZjQyOTVI/MzAwMFczMDAwXzQ2/NF80NjQuanBn" width="400" />
 </p>
 
 ---
