@@ -56,7 +56,7 @@
 
 ## 🎮 *My Fun Side!*  
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hnOWV4dm43d2xzdmc5eDZ1MWtsbmRtY2Vwcmx2YXUwcjIyZ3AyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kX7OWl40hcz6RSYyjN/giphy.gif" width="175" />
+  <img src="https://media1.tenor.com/m/LXD71XwwmIwAAAAC/demon-slayer-inosuke.gif" width="175" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDloZjJ4eXM0NDlkaGk5bGNmaTY2aDJzeDUzbDJiYmI3Z3VidjJtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iG5L6qnH5SoeY/giphy.gif" width="175" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpiNHExam54a3pvNmtvdnZzNmZkdDBrOXdjbW92ZjViNDJmZWcyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="175" />
   <img src="https://media1.tenor.com/m/pb6R5qRJFtIAAAAd/gto-great.gif" width="175" />
