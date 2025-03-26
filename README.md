@@ -72,7 +72,7 @@
 
 ## 🎵 *Vibe While You Scroll!* 🎶  
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&unique=true" width="400" />
+  <img src="https://open.spotify.com/embed/album/0uF7LYXx0mDrWeMxZ3vRkz?utm_source=generator" width="400" />
 </p>
 
 ---
