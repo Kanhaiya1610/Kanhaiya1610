@@ -56,7 +56,6 @@
 
 ## 🎮 *My Fun Side!*  
 <p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDloZjJ4eXM0NDlkaGk5bGNmaTY2aDJzeDUzbDJiYmI3Z3VidjJtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iG5L6qnH5SoeY/giphy.gif" width="150" />
   <img src="https://media.giphy.com/media/3o6Zt3NND1TdnIAfSM/giphy.gif?cid=790b7611rb8oh2rrzhm1n348efvu21cadyjj1gycqfvk0w1k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" />
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150" />
