@@ -95,7 +95,7 @@ Welcome to my GitHub! I’m a **Japan enthusiast**, deeply fascinated by its **a
 
 ### 🍜 Food 🍣  
 From the delicate taste of **sushi & ramen** to the sweetness of **mochi & taiyaki**, Japanese cuisine is a whole experience! 
-<p align="center">
+<p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ1NmZwYm42MTc0bzJvNTliN2Q5bG8yNGZna3JheGdjaXE0MWUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1KsJ1xsE79u2zs2c/giphy.gif" width="550">
 </p>
 <!--![Japanese Food](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ1NmZwYm42MTc0bzJvNTliN2Q5bG8yNGZna3JheGdjaXE0MWUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1KsJ1xsE79u2zs2c/giphy.gif)  
@@ -103,27 +103,33 @@ From the delicate taste of **sushi & ramen** to the sweetness of **mochi & taiya
 ### 🌆 Anime & Manga 🎨  
 Anime isn't just entertainment—it’s an **art form** that tells deep and meaningful stories.  
 Some of my favorites: **Your Name, AOT, One Piece, Naruto**  
-<p align="center">
+<p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N5OHh6ZGM4bTNuOGdhbm51MXB2c2Z6eHpmbXduOHg2djM0MHYxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiXTKpaF9KS92g/giphy.gif" width="550">
 </p>  
 
 ### 🚗 JDM Cars 🏎️  
 The **legendary JDM (Japanese Domestic Market) cars** like the **Supra, Skyline GT-R, RX-7, and NSX** are engineering marvels! 🚗💨  
-<p align="center">
+<p align="left">
   <img src="https://i.pinimg.com/736x/48/5b/19/485b1913d8d5174e5b26c413e22773a6.jpg" width="550">
 </p>
 
 ### 🗻 Mount Fuji & Nature 🌿  
 The **majestic Mount Fuji** is Japan’s icon! I dream of visiting it one day. The **cherry blossoms**, lakes, and mountains make Japan a paradise.  
-![Mt. Fuji](https://i.pinimg.com/736x/3c/79/d5/3c79d5164e483c3efa73613a9ce879e3.jpg)  
+<p align="left">
+  <img src="https://i.pinimg.com/736x/3c/79/d5/3c79d5164e483c3efa73613a9ce879e3.jpg" width="550">
+</p>
 
 ### ☁️ Weather & Seasons ❄️🌸  
 Japan’s four seasons are **magical**! From the **sakura blossoms in spring** to the **snow-covered temples in winter**, every season has its charm.  
-![Seasons](https://i.pinimg.com/736x/4f/0e/4c/4f0e4c2ab11d7503194c8d37bb25a8e4.jpg)  
+<p align="left">
+  <img src="https://i.pinimg.com/736x/4f/0e/4c/4f0e4c2ab11d7503194c8d37bb25a8e4.jpg" width="550">
+</p>
 
 ### 🏯 Culture & People 🎎  
 The **politeness and respect** in Japanese culture are unmatched. Their **hospitality, traditions, and discipline** inspire me every day!  
-![Politeness](https://i.pinimg.com/736x/79/40/c7/7940c7eb1f9a071a6a13cd057372a132.jpg)  
+<p align="left">
+  <img src="https://i.pinimg.com/736x/79/40/c7/7940c7eb1f9a071a6a13cd057372a132.jpg" width="550">
+</p>
 
 ---
 
