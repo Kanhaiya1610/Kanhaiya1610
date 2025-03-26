@@ -103,7 +103,9 @@ From the delicate taste of **sushi & ramen** to the sweetness of **mochi & taiya
 ### 🌆 Anime & Manga 🎨  
 Anime isn't just entertainment—it’s an **art form** that tells deep and meaningful stories.  
 Some of my favorites: **Your Name, AOT, One Piece, Naruto**  
-![Anime](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N5OHh6ZGM4bTNuOGdhbm51MXB2c2Z6eHpmbXduOHg2djM0MHYxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiXTKpaF9KS92g/giphy.gif)  
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N5OHh6ZGM4bTNuOGdhbm51MXB2c2Z6eHpmbXduOHg2djM0MHYxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiXTKpaF9KS92g/giphy.gif" width="400">
+</p>  
 
 ### 🚗 JDM Cars 🏎️  
 The **legendary JDM (Japanese Domestic Market) cars** like the **Supra, Skyline GT-R, RX-7, and NSX** are engineering marvels! 🚗💨  
