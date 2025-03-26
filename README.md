@@ -56,7 +56,7 @@
 
 ## 🎮 *My Fun Side!*  
 <p align="center">
-  <img src="https://media.giphy.com/media/sXfQP97g8dQo8/giphy.gif?cid=ecf05e47ue2ptfh05hnfr2i6yyuyxmzvsg248611kq131rwn&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="175" />
+  <img src="https://media.giphy.com/media/3Lqz1DbscWctx52GZ1/giphy.gif?cid=ecf05e47tb0zghwcifbh5aqakiwggtlh4u632udiplukng3q&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="175" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDloZjJ4eXM0NDlkaGk5bGNmaTY2aDJzeDUzbDJiYmI3Z3VidjJtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iG5L6qnH5SoeY/giphy.gif" width="175" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpiNHExam54a3pvNmtvdnZzNmZkdDBrOXdjbW92ZjViNDJmZWcyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="175" />
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="175" />
