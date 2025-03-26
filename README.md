@@ -75,9 +75,13 @@
   <img src="https://i.pinimg.com/736x/84/2d/aa/842daa9928ef4f570b44c39e0cd3859b.jpg" width="350"/>
   <img src="https://i.pinimg.com/736x/94/d8/b3/94d8b38182344c6198b0e355e89c3f22.jpg" width="350" />
 </p>
-<p align="center">
-  <iframe src="https://www.youtube.com/embed/7aMOurgDB-o?si=80V0-QDZw-twso8_" width="450" height="250"></iframe>
-</p>
+
+---
+## 🎥 Watch the Video  
+
+[![Click to Watch](https://i.pinimg.com/736x/54/04/50/540450ad123887a621cb21dd3cb05d96.jpg)](https://www.youtube.com/embed/7aMOurgDB-o?si=80V0-QDZw-twso8_)  
+
+🔹 Click the image above to watch the video!
 
 ---
 
@@ -91,28 +95,28 @@ Welcome to my GitHub! I’m a **Japan enthusiast**, deeply fascinated by its **a
 
 ### 🍜 Food 🍣  
 From the delicate taste of **sushi & ramen** to the sweetness of **mochi & taiyaki**, Japanese cuisine is a whole experience!  
-![Japanese Food](https://media.giphy.com/media/3oEduF5Fgj0QhNvdeE/giphy.gif)  
+![Japanese Food](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ1NmZwYm42MTc0bzJvNTliN2Q5bG8yNGZna3JheGdjaXE0MWUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1KsJ1xsE79u2zs2c/giphy.gif)  
 
 ### 🌆 Anime & Manga 🎨  
 Anime isn't just entertainment—it’s an **art form** that tells deep and meaningful stories.  
 Some of my favorites: **Your Name, AOT, One Piece, Naruto**  
-![Anime](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
+![Anime](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N5OHh6ZGM4bTNuOGdhbm51MXB2c2Z6eHpmbXduOHg2djM0MHYxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiXTKpaF9KS92g/giphy.gif)  
 
 ### 🚗 JDM Cars 🏎️  
 The **legendary JDM (Japanese Domestic Market) cars** like the **Supra, Skyline GT-R, RX-7, and NSX** are engineering marvels! 🚗💨  
-![JDM](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
+![JDM](https://i.pinimg.com/736x/48/5b/19/485b1913d8d5174e5b26c413e22773a6.jpg)  
 
 ### 🗻 Mount Fuji & Nature 🌿  
 The **majestic Mount Fuji** is Japan’s icon! I dream of visiting it one day. The **cherry blossoms**, lakes, and mountains make Japan a paradise.  
-![Mt. Fuji](https://media.giphy.com/media/3o7TKsQx5HIuVyB8x6/giphy.gif)  
+![Mt. Fuji](https://i.pinimg.com/736x/3c/79/d5/3c79d5164e483c3efa73613a9ce879e3.jpg)  
 
 ### ☁️ Weather & Seasons ❄️🌸  
 Japan’s four seasons are **magical**! From the **sakura blossoms in spring** to the **snow-covered temples in winter**, every season has its charm.  
-![Seasons](https://media.giphy.com/media/3o7TKXufF3RH1H4a48/giphy.gif)  
+![Seasons](https://i.pinimg.com/736x/4f/0e/4c/4f0e4c2ab11d7503194c8d37bb25a8e4.jpg)  
 
 ### 🏯 Culture & People 🎎  
 The **politeness and respect** in Japanese culture are unmatched. Their **hospitality, traditions, and discipline** inspire me every day!  
-![Politeness](https://media.giphy.com/media/l1J3G5lf06vi58EIE/giphy.gif)  
+![Politeness](https://i.pinimg.com/736x/79/40/c7/7940c7eb1f9a071a6a13cd057372a132.jpg)  
 
 ---
 
