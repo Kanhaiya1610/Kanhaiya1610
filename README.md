@@ -137,7 +137,7 @@ The **politeness and respect** in Japanese culture are unmatched. Their **hospit
 - ✅ **Hiragana & Katakana**  
 - 🔄 **Kanji & Vocabulary**  
 - 🎙️ **Practicing Japanese Conversations**  
-- 🎯 **Goal: Pass JLPT N5 & Visit Japan!**  
+- 🎯 **Goal: Pass JLPT N5, N4, N3 & Visit Japan!**  
 
 📖 日本語を勉強しています！(I’m learning Japanese!)  
 
