@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">  
   <b><i>AI Researcher | Web Developer | Data Scientist</i></b>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlodWkzbTF6OGp6bXlkcjkxM2J3MWVrNWk1M3VkaWxjem9hODBtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif" width="60">
 </p>
 
 ---
