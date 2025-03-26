@@ -17,9 +17,9 @@
 🎮 *Hobbies*: Coding, Gaming, Sci-Fi Movies, Anime, and Open-Source Contributions.  
 
 📌 *2025 Goals:*  
-✔ Master Reinforcement Learning and Deep RL 🤖  
+✔ Master Reinforcement Learning, Deep RL and Computer Vision along with SpringBoot Framework🤖  
 ✔ Build & Deploy ML/DL Models in Production  
-✔ Create a powerful *AI Game Bot*  
+✔ Create a powerful *AI powered Satelite Damage Detection Model*  
 
 ---
 
