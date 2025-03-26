@@ -72,7 +72,7 @@
 
 ## 🎵 *Vibe While You Scroll!* 🎶  
 <p align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=129760033006458539" height="434" width="345" frameborder="0" scrolling="no" ></iframe>
+  <img src="https://assets.pinterest.com/ext/embed.html?id=129760033006458539" height="434" width="345" frameborder="0"/>
   <img src="https://i.pinimg.com/736x/94/d8/b3/94d8b38182344c6198b0e355e89c3f22.jpg" width="350" />
 </p>
 
