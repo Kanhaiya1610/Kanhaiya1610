@@ -94,9 +94,12 @@ Welcome to my GitHub! I’m a **Japan enthusiast**, deeply fascinated by its **a
 ## 🎌 **Why Japan Captivates Me?**  
 
 ### 🍜 Food 🍣  
-From the delicate taste of **sushi & ramen** to the sweetness of **mochi & taiyaki**, Japanese cuisine is a whole experience!  
-![Japanese Food](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ1NmZwYm42MTc0bzJvNTliN2Q5bG8yNGZna3JheGdjaXE0MWUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1KsJ1xsE79u2zs2c/giphy.gif)  
-
+From the delicate taste of **sushi & ramen** to the sweetness of **mochi & taiyaki**, Japanese cuisine is a whole experience! 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ1NmZwYm42MTc0bzJvNTliN2Q5bG8yNGZna3JheGdjaXE0MWUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1KsJ1xsE79u2zs2c/giphy.gif" width="400">
+</p>
+<!--![Japanese Food](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ1NmZwYm42MTc0bzJvNTliN2Q5bG8yNGZna3JheGdjaXE0MWUyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1KsJ1xsE79u2zs2c/giphy.gif)  
+-->
 ### 🌆 Anime & Manga 🎨  
 Anime isn't just entertainment—it’s an **art form** that tells deep and meaningful stories.  
 Some of my favorites: **Your Name, AOT, One Piece, Naruto**  
