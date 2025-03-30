@@ -77,15 +77,13 @@
 </p>
 
 ---
+
 ## 🎥 Watch the Video  
-<!--
-<object data="https://www.youtube.com/embed/7aMOurgDB-o?si=80V0-QDZw-twso8_" width="560px" height="315px"></object>-->
-[![Click to Watch](https://www.youtube.com/embed/7aMOurgDB-o?si=80V0-QDZw-twso8_)]
-<!--
+
 [![Click to Watch](https://i.pinimg.com/736x/54/04/50/540450ad123887a621cb21dd3cb05d96.jpg)](https://www.youtube.com/embed/7aMOurgDB-o?si=80V0-QDZw-twso8_)  
 
 🔹 Click the image above to watch the video!
--->
+
 ---
 
 # 🌸 こんにちは! I'm Kanhaiya! 🇯🇵✨  
