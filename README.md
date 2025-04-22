@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Kanhaiya%20Agarwal-blue?style=for-the-badge&logo=linkedIn" />
   </a>
   <a href="https://kanhaiya1610.github.io/Portfolio" target="_blank">
-    <img src="https://kanhaiya1610.github.io/Portfolio%20-blue?style=for-the-badge&logo=github" />
+    <img src="https://kanhaiya1610.github.io/Portfolio-blue?style=for-the-badge" />
   </a>
   <a href="mailto:klaggarwal1610@gmail.com@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-klaggarwal1610@gmail.com-D14836?style=for-the-badge&logo=gmail" />
