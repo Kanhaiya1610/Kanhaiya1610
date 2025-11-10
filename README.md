@@ -23,7 +23,7 @@
 
 ---
 
-<a href="https://app.daily.dev/kanhaiyaaggarwal"><img src="https://api.daily.dev/devcards/v2/IInM8b01ZkMDgGOjD9I41.png?r=mcc&type=default" width="356" alt="Kanhaiya Aggarwal's Dev Card"/></a>
+<a href="https://app.daily.dev/kanhaiyaaggarwal"><img src="https://api.daily.dev/devcards/v2/IInM8b01ZkMDgGOjD9I41.png?type=wide&r=bn2" width="652" alt="Kanhaiya Aggarwal's Dev Card"/></a>
 
 ---
 
