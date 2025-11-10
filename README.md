@@ -23,6 +23,10 @@
 
 ---
 
+<a href="https://app.daily.dev/kanhaiyaaggarwal"><img src="https://api.daily.dev/devcards/v2/IInM8b01ZkMDgGOjD9I41.png?r=mcc&type=default" width="356" alt="Kanhaiya Aggarwal's Dev Card"/></a>
+
+---
+
 ## 🌍 *Let's Connect!* 🌟  
 <p align="center">
   <a href="https://www.linkedin.com/in/kanhaiya-aggarwal/" target="_blank">
